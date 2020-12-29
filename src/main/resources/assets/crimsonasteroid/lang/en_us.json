@@ -1,0 +1,22 @@
+{
+	"item.crimsonasteroid.kunai" : "Kunai",
+	"item.crimsonasteroid.astronauticecream": "Astronaut Ice Cream",
+	"item.crimsonasteroid.abyssal_katana": "Abyssal katana",
+	"item.crimsonasteroid.abyssal_pickaxe": "Abyssal Pickaxe",
+	"item.crimsonasteroid.abyssal_shovel" : "Abyssal Shovel",
+	"item.crimsonasteroid.abyssal_axe": "Abyssal Axe",
+	"item.crimsonasteroid.abyssal_hoe": "Abyssal Hoe",
+	"item.crimsonasteroid.abyssium_ingot": "Abyssium Ingot",
+	"item.crimsonasteroid.abyssium_wand": "Wand Of Ethernal Anguish",
+	
+	"item.crimsonasteroid.abyssium_helmet": "Abyssium Helmet",
+	"item.crimsonasteroid.abyssium_chestplate": "Abyssium ChestPlate",
+	"item.crimsonasteroid.abyssium_leggings": "Abyssium Leggings",
+	"item.crimsonasteroid.abyssium_boots": "Abyssium boots",
+	
+	"block.crimsonasteroid.abyssium_block": "Abyssium Block",
+	"block.crimsonasteroid.abyssium_ore": "Abyssium Ore",
+	"block.crimsonasteroid.chair": "Chair",
+	"block.crimsonasteroid.statue": "Statue",
+	"itemGroup.crimsonasteroidTab": "Crimson tab"
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "crimsonasteroid:block/statue" },
+        "facing=south": { "model": "crimsonasteroid:block/statue", "y": 180 },
+        "facing=west":  { "model": "crimsonasteroid:block/statue", "y": 270 },
+        "facing=east":  { "model": "crimsonasteroid:block/statue", "y": 90 }
+    }
+}

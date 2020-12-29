@@ -1,0 +1,14 @@
+modLoader="javafml" #mandatory
+loaderVersion="[31,)" #mandatory
+ 
+[[mods]] #mandatory
+modId="crimsonasteroid" #mandatory
+version="0.1" #mandatory
+displayName="Crimson Asteroid" #mandatory
+credits="Hello." #optional
+authors="Zyrax88." #optional
+description='''
+	Bottom text
+
+''' #mandatory
+ 
